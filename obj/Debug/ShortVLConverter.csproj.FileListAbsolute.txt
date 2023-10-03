@@ -1,0 +1,8 @@
+E:\Projects\ИнноТех\ConvertFromZulu\ShortVLConverter\bin\Debug\ShortVLConverter.exe.config
+E:\Projects\ИнноТех\ConvertFromZulu\ShortVLConverter\bin\Debug\ShortVLConverter.exe
+E:\Projects\ИнноТех\ConvertFromZulu\ShortVLConverter\bin\Debug\ShortVLConverter.pdb
+E:\Projects\ИнноТех\ConvertFromZulu\ShortVLConverter\obj\Debug\ShortVLConverter.csproj.AssemblyReference.cache
+E:\Projects\ИнноТех\ConvertFromZulu\ShortVLConverter\obj\Debug\ShortVLConverter.csproj.ResolveComReference.cache
+E:\Projects\ИнноТех\ConvertFromZulu\ShortVLConverter\obj\Debug\ShortVLConverter.csproj.CoreCompileInputs.cache
+E:\Projects\ИнноТех\ConvertFromZulu\ShortVLConverter\obj\Debug\ShortVLConverter.exe
+E:\Projects\ИнноТех\ConvertFromZulu\ShortVLConverter\obj\Debug\ShortVLConverter.pdb
